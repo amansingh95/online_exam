@@ -1,0 +1,52 @@
+
+.body{
+text-align: center;
+    font-size: x-large;
+    font-style: initial;
+    font-weight: 600;
+    background-color:#000000}
+	.table{    background-color: beige;
+    border-radius: 1px  1em/3em 1em 1em;}
+	.related4{background-color: #dcd2c5;
+    border-radius: 0em 0em 3em 1em;}
+.adminheading{
+text-align: -webkit-center;
+   
+       font-size: -webkit-xxx-large;
+    font-stretch: inherit;
+    font-style: italic;
+    font-style: bold;
+    tab-size: 45px;
+    border-radius: 1em;
+    background-color: peachpuff;
+    border-radius: 30em 30em/1em;}
+	
+.linktext{
+text-align: center;
+    font-size: x-large;
+    font-style: initial;
+    font-weight: 600;
+    background-color: blanchedalmond;}
+.homelink{}
+.logoutlink{}
+.link{}
+.Related1{ font-size: xx-large;
+    animation-play-state: running;
+    text-align: center;
+    background-color: burlywood;
+    border: aqua;}
+.Related2{border-radius: 2em 1em/3em 0em 0em;}
+.Related3{    background-color: darkkhaki;}
+.exam{ackground-color: darkseagreen;
+    border-radius: 2em/3em 3em 2em 0em;}
+	.examhedi{    background-color: burlywood;
+    border-radius: 34em 16em/2em;}
+.body{}
+.heading{}
+.image{}
+.newexam{background-color: bisque;
+    border-radius: 9em/4em 0em 0em 0em;}
+	.newexamback{
+    background-color: azure;
+	 border-radius: 3px  5em/13em;}
+	 
